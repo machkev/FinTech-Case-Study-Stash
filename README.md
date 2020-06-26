@@ -56,14 +56,15 @@ Below is a list of the other major companies in this domain.
 
 1. You Invest (by JP Morgan)
 2. Acorns
-3. SoFi
-4. Ally Invest
-5. Robinhood
-6. E-Trade (Acquired by Morgan Stanley)
-7. TD Ameritrade (Acquired by Charles Schwab)
-8. Merrill Edge (by Bank of America)
-9. Charles Schwab
-10. Fidelity Investments
+3. Stash
+4. SoFi
+5. Ally Invest
+6. Robinhood
+7. E-Trade (Acquired by Morgan Stanley)
+8. TD Ameritrade (Acquired by Charles Schwab)
+9. Merrill Edge (by Bank of America)
+10. Charles Schwab
+11. Fidelity Investments
 
 ## Results
 
