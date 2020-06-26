@@ -9,6 +9,8 @@
  * **Date of Incorporation**: February 19, 2015
  
  * **Founders**: Brandon Krieg, David Ronick, Ed Robinson
+
+ * **Headquarters**: New York, New York, United States of America
  
  * **Idea Origin**: Stash is a private New York-based personal finance and investment platform intended to make saving and investment accessible to everyone. The idea came about from Brandon Krieg and Ed Robinson, who, after spending many years working on Wall Street, realized that most financial systems can be unfair to smaller investors. They started Stash to help provide unlimited financial opportunity to underserved Americans.
  
@@ -17,9 +19,9 @@
 ## Business Activities
 
 Stash is trying to solve the problem of access to the tools, guidance and confidence needed to grow personal wealth. They are helping to provide unlimited financial opportunity to thousands of underserved lower income Americans. Stash unites banking, investing, and advice all in one app that has helped over 5 million people reach their financial goals and make progress towards financial freedom.
-Stash’s target demographics are users that have less than USD 100,000 in assets, who are notably millennials. According to the census data in 2017, this is approximately 63% of Generation X and 86% of millennials, or roughly 109M people in the US.
+Stash’s target demographics are users that have less than $100,000 in assets, who are notably millennials. According to the census data in 2017, this is approximately 63% of Generation X and 86% of millennials, or roughly 109M people in the US.
 
-The average age of a Stash user is 29 and average income is less than USD 50,000 per year. Users can invest in increments as small as USD 1, although the average is USD 28, with flat fees on top of that at USD 1, USD 3, and USD 9 for monthly subscriptions depending on what services you are using. 
+The average age of a Stash user is 29 and average income is less than $50,000 per year. Users can invest in increments as small as USD 1, although the average is $28, with flat fees on top of that at $1, $3, and $9 for monthly subscriptions depending on what services you are using. 
 
 Stash's unfair advantage is that it uses a micro-investing model, which means users can make more frequent investments at fractional dollar amounts. The small dollar amounts have brought in large number of first-time investors — especially millennials — who had previously stayed out of the market. Stash’s approach went viral among first-time investors who accounted for 86% of Stash’s customers (as of July 2017), including customers in lower-income brackets that cannot afford a traditional wealth manager and are hesitant to invest all of their savings at once.
 The company's mantra is “invest in what you believe in.” Contrary to what Robo-advisors do, Stash provides the tools and tips for one to learn how to choose investments. Stash believes that since it’s your money, you should have control over what you invest in. With ETFs organized in a thematic fashion on their platform, the company encourages you to invest in what you care about. 
@@ -27,14 +29,14 @@ The company's mantra is “invest in what you believe in.” Contrary to what Ro
 
 The company's application offers personal investment accounts, retirement accounts and custodial accounts for minors as well as provides option to buy fractional shares of stocks, bonds and funds with no add-on trading commissions, enabling users to save small sums of money and make micro-investments regardless of their age and income in a hassle-free manner.
 
-Stash's main competitors are Acorns, Robinhood, Revolut, Coinbase, Capital. Stash generates USD 50 million in revenue and is ranked 5th among it's top 10 competitors. Stash's  advantage is that it has a user-friendly interface and offers rewards ("Stock-Back") that allow you to earn shares of stock or ETFs when one makes purchases with their debit card. It also has excellent educational resources and automatic savings and investing tools.
+Stash's main competitors are Acorns, Robinhood, Revolut, Coinbase, Capital. Stash generates $50 million in revenue and is ranked 5th among it's top 10 competitors. Stash's  advantage is that it has a user-friendly interface and offers rewards ("Stock-Back") that allow you to earn shares of stock or ETFs when one makes purchases with their debit card. It also has excellent educational resources and automatic savings and investing tools.
 
 Some of the technologies that Stash uses include:
 
-* **DevOps**: GitHub, Git, Docker, VS Code, npm, CircleCi, New Relic
-* **Application & Data**: Kafka, Scala, Akka, PostgreSQL, Ruby on Rails, Apache HTTP Server, Node.js, jQuery, JavaScript, PHP, Python, React, CloudFlare, Bootstrap, MongoDB
-* **Utilities**: Google Analytics, Postman, Elasticsearch, Twilio, Apptimize
-* **Business Tools**: WordPress, Slack, Jira, Trelio, Confluence, G Suite, InVision
+* **DevOps**: GitHub, Git, Docker, VS Code, npm, CircleCi, New Relic, Jenkins, Webpack, Sublime Text, Intellij IDEA, Android Studio, Xcode, Babel, Selenium, Amazon EC2 Container Service, Grafana, Crashlytics, PagerDuty, Sumo Logic & Skylight.
+* **Application & Data**: Kafka, Scala, Akka, PostgreSQL, Ruby, Rails, Apache HTTP Server, Node.js, jQuery, JavaScript, PHP, Python, React, CloudFlare, Bootstrap, MongoDB, Java, HTML5, Google Drive, Amazon EC2, Redis, Amazon S3, ES6, Sass, Amazon CloudFront, Heroku, Android SDK, Redux, AWS Lambda, Spring Boot, Markdown, Flask, Swift, Apache Tomcat, Amazon RDS, Objective-C, Socket.IO, Kotlin, Apache Spark, D3.js, Amazon Redshift, Sidekiq and Play.
+* **Utilities**: Google Analytics, Postman, Elasticsearch, Twilio, Apptimize, Mailgun, Mixpanel, Mandrill, Piwik and Looker
+* **Business Tools**: WordPress, Slack, Jira, Trelio, Confluence, G Suite, InVision.
 
 
 Stash implements their technologies using RESTful APIs. REST is acronym for REpresentational State Transfer. It is architectural style for distributed hypermedia systems. The developer creates the API on the server and allows the client to talk to it. REST is a set of rules that developers follow when they create their API and it determines how the API looks like. 
@@ -72,17 +74,17 @@ Over the 5 years since its founding, it appears Stash is seeing a steady growth 
  
 * **Millennial, first-time users are signing up**: While the majority of millennials are skeptical of the stock market, Stash has had early success tapping this market. Stash said 86% of its customers in July were first-time investors.
 * **Customer growth**: Stash had 982,800 customer accounts averaging 1,194 account adds a day since receiving SEC approval. Client accounts skyrocketed following the launch of a B2B service, growing 531% in Q1’17. In October 2017, Stash reported the company had approximately 1.2M customers.
-* **AUM growth**: Stash had USD 125M of assets under management (AUM) with the average customer account at $127. While AUM per account was far lower than its competitors, Stash says new customers were growing their accounts at a faster and faster pace.
+* **AUM growth**: Stash had $125M of assets under management (AUM) with the average customer account at $127. While AUM per account was far lower than its competitors, Stash says new customers were growing their accounts at a faster and faster pace.
 * **Product strategy**: Stash’s product differs from the typical Robo-advisor by focusing on letting users invest very small sums, which appeals to people who would otherwise stay out of the market. The company has also emphasized financial education as a means of engaging users.
 * **Future Plans**: Stash was planning to launch a free bank account service through a partnership with an undisclosed bank, slated for Q1’18. This will allow customers to store their savings in an FDIC insured account and directly invest on Stash. Stash is also planning on expanding into retirement services in Q4’17 and working on a desktop platform. This suggests an interest in going after an older demographic, and making sure Stash’s existing customers can build retirement portfolios with the company. If Stash can expand its user base and keep its current users engaged, it could eventually pose a serious threat to incumbent Robo-advisors.
 
 FinTechs in general were enjoying strong growth with its customer base before the coronavirus pandemic hit. This has since accelerated with a lot of knowledge workers (mostly millennials) continue to work from home. Stash continues to attract users during the pandemic due to its diversified offerings and in March 2020, it saw customer deposits surge 50 percent and account openings increase 35 percent compared with February.
 
-In addition during the depths of the pandemic in early 2Q 2020, where FinTech deals dipped, as investors typically are more likely to invest in established companies rather than chance with a brand new company, Stash was able to secure a USD 112 million in funding which will go towards customer acquisition and raising brand awareness. This funding round shows that the company is performing well relative to its peers, thanks to its diversified product offering and sustainable business model.
+In addition during the depths of the pandemic in early 2Q 2020, where FinTech deals dipped, as investors typically are more likely to invest in established companies rather than chance with a brand new company, Stash was able to secure a $112 million in funding which will go towards customer acquisition and raising brand awareness. This funding round shows that the company is performing well relative to its peers, thanks to its diversified product offering and sustainable business model.
 
 ## Recommendations
 
-With over 4.5 million users and USD 1 billion+ in assets under management, Stash is in an enviable position and it should fare well in the long term as its business model and large customer base are positioned to support sustainable growth.
+With over 4.5 million users and $1 billion+ in assets under management, Stash is in an enviable position and it should fare well in the long term as its business model and large customer base are positioned to support sustainable growth.
 
 In order to ensure that it competes well in the long term as the incumbents are also strategizing on capturing the same markets, I would recommend that Stash considers adding **Cryptocurrencies** services on its platform. A cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. 
 
